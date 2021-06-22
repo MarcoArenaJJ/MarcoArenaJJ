@@ -1,9 +1,10 @@
 ### Hello 👋 
 
-Iam Brazilian living in Madrid!
+📍 Iam 🇧🇷: Brazilian Italian :it: living in 🇪🇸 Madrid!
 
-- 🔭 I’m currently working on Arena Web Media (FreeLancer)
-- 🌱 I’m currently working with Front-End
+- 🖥️ I’m currently working on Arena Web Media https://www.arenawebmedia.com/
+- 🔄 I’m currently working with Front-End
 - ⚡ HTML, CSS, JavaScript, React, NodeJS
-- :camera: Photographer at Arena Jiu-Jitsu Photography
-- :punch: Brazilian Jiu-Jitsu Black Belt
+- 🖌️ Design UX/UI
+- 📸: Photographer at Arena Jiu-Jitsu Photography - http://www.arenajj.com/
+- 🥋 Brazilian Jiu-Jitsu Black Belt IBJJF
