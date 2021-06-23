@@ -2,7 +2,7 @@
 
 📍 Iam 🇧🇷: Brazilian Italian :it: living in 🇪🇸 Madrid!
 
-- 🖥️ I’m currently working on Arena Web Media
+- 🖥️ I’m currently working on Arena Web Media (FreeLancer)
 - 🔄 I’m currently working with Front-End
 - ⚡ HTML, CSS, JavaScript, React, NodeJS
 - 🖌️ Design UX/UI
