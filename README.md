@@ -1,15 +1,21 @@
 Hello, I'm Marco Aurélio Ferreira 👋 
 
-📍 Brazilian living in Madrid!
-- 🥋 Brazilian Jiu-Jitsu Black Belt
+📍 Brazilian living in Madrid
+
+🥋 Brazilian Jiu-Jitsu Black Belt
+
 https://www.instagram.com/marcoarenajj
 
-Web Developer
+////// Web Developer //////
+
 Arena Web Media http://arenawebmedia.com
+
 HTML, CSS, JavaScript, React, NodeJS
 
-📸 Photographer
+////// Photographer //////
+
 Arena Jiu-Jitsu  https://arenajj.com
+
 Arena Fotografia http://www.arenafotografia.com
 
 
